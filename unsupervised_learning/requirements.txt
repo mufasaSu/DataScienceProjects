@@ -1,0 +1,15 @@
+pandas
+numpy
+scipy
+scikit-learn
+matplotlib
+seaborn
+yellowbrick
+plotly
+umap-learn
+datashader
+bokeh
+holoviews
+scikit-image
+colorcet
+jupyter

@@ -1,0 +1,7 @@
+torch
+torchvision
+scikit-learn
+matplotlib
+opencv-python
+seaborn
+google-colab
